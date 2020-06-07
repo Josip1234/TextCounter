@@ -3,6 +3,8 @@ package text.counter;
 public class Concept {
 
 	public static void main(String[] args) {
+		
+		
 		/**
 		 * jedan string će se parsirati i taj string će biti u klasi pri tome će se u main pprogramu ili controlleru ili 
 		 * implementaciji interface funkcije stavljati u listu ili polje. kada se parsira obična datoteka, parsirati će se riječ po riječ razmak
