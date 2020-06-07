@@ -3,7 +3,7 @@ package text.counter;
 public class Concept {
 
 	public static void main(String[] args) {
-		
+		Run.run();
 		
 		/**
 		 * jedan string će se parsirati i taj string će biti u klasi pri tome će se u main pprogramu ili controlleru ili 
