@@ -2,6 +2,8 @@ package text.counter;
 
 import java.util.List;
 
+import lombok.Data;
+
 /***
  * 
  * @author Korisnik
@@ -10,12 +12,19 @@ import java.util.List;
  * @version 1.0
  *
  */
+@Data
 public class Run implements Words {
+	
+	
 
 	@Override
 	public List<Word> addWord(String word) {
 		// TODO Auto-generated method stub
 		return null;
+	}
+	
+	static void run() {
+		
 	}
 
 }
