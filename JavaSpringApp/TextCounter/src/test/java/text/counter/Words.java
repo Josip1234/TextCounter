@@ -11,5 +11,11 @@ import java.util.List;
  *
  */
 public interface Words {
+	/***
+	 * @author Korisnik
+	 * @since 7.6.2020. 13:39
+	 * @param word - what value you want to add to the lists of words
+	 * @return list of words
+	 */
     List<Word> addWord(String word);
 }

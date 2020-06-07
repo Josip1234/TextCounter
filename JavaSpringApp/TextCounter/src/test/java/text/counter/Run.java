@@ -24,7 +24,9 @@ public class Run implements Words {
 	}
 	
 	static void run() {
-		
+		String running=Runing.Running.toString();
+		String app=Runing.application.toString();
+		Messages.printMessage(running+app+"...");
 	}
 
 }
