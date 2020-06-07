@@ -3,6 +3,9 @@ package text.counter;
 public class Concept {
 
 	public static void main(String[] args) {
+		/***
+		 * successfully runned application
+		 */
 		Run.run();
 		
 		/**
